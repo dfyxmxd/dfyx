@@ -3,8 +3,8 @@ muban.mxpro.二级.tabs = '#y-playList .tab-item';
 var rule = {
 	title: 'dsx影视',
 	模板: 'mxpro',
-	// host:'https://dsxys.com',
-	host: 'https://dsxys.pro',
+	// host:'https://dsxys.pro',
+	host: 'https://dsxys.com',
 	// url:'/vodshow/fyclass--------fypage---.html',
 	url: '/vodshow/fyfilter.html',
 	filterable: 1,//是否启用分类筛选,
